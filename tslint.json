@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-react",
+    "tslint-config-prettier",
+    "tslint-eslint-rules"
+  ],
+  "rules": {
+    "jsx-wrap-multiline": false
+  },
+  "scripts": {
+    "tslint-check": "tslint-config-prettier-check ./tslint.json"
+  }
+}
