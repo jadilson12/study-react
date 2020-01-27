@@ -1,4 +1,4 @@
-import React from 'react';
+cimport React from 'react';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 
 import { CategoriaComponent } from './modules/categoria/categoria-component';
